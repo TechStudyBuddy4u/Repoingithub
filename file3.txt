@@ -1,3 +1,1 @@
-1
-This is to conflict from local
-tralala
+This is Sam. This is my change that i have updated in the remote repo.
